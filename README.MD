@@ -1,5 +1,8 @@
 # Django Templates
 
+## How to run?
+1. Environment variables
+2. Staticfiles
 
 ### Dictionary
 - REPL - read, evaluate, print, loop
@@ -8,3 +11,6 @@
 - Product
 - DB - connection string
 - yaml - yet another markup language
+- CDN - Content Delivery Network (CloudFront (AWS))
+- minification - remove white characters
+- uglification - shorten identifiers names
